@@ -115,7 +115,7 @@ form input{
         flex-direction: column;
     }
     .left{
-          width: 400px;
+          width: 350px;
           align-content: center;
           align-items: center;
     }
