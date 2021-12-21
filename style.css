@@ -110,7 +110,7 @@ form input{
     font-size: 15px;
     padding-top: 30px;
 }
-@media(max-width:750px){
+@media(max-width:600px){
     .container{
         flex-direction: column;
     }
